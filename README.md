@@ -1,4 +1,5 @@
 ### Olá eu sou a Samantha, Seja Bem-Vindo ao meu Perfil! 👋
+## Desenvolvedora Web Full-Stack
 
 - 🔭 Atualmente estou trabalhando em um Projeto de um E-commerce
 <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat" target="_blank">Link do Projeto<a>
