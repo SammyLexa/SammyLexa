@@ -9,6 +9,8 @@
     <br>
     <a href="https://www.linkedin.com/in/samantha-alexandra-pereira/" target="_blank">linkedin.com/in/samantha-alexandra-pereira/<a>
 - 👧 Pronomes: Ela/Dela
+- 👩‍💼💼 Portfolio: 
+        <a href="https://github.com/SammyLexa/Portfolio" alt="link do meu portfolio">Link</a>
 - 💜 Sobre mim: Sou aspirante a Desenvolvedora Web Full-Stack, com ênfase no Front-end, estou ansiosa para aprender e crescer na área de desenvolvimento web. Minha paixão por criar páginas web envolventes, acessíveis e fáceis de usar me levou a seguir a carreira de desenvolvimento.
 
 ##
@@ -28,7 +30,7 @@
 
 ##
 
-<a href="https://github.com/SammyLexa/Portfolio" alt="link do meu portfolio">Portfolio👩‍💼💼</a>
+
     
 
 <a href="https://www.linkedin.com/in/samantha-alexandra-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
