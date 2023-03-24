@@ -18,7 +18,7 @@
 ##
 <div style="display: inline_block">
   <img align="center" alt="" height="180em" src="https://github-readme-stats.vercel.app/api?username=SammyLexa&show_icons=true&theme=jolly">
-  <img align="center" alt="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyLexa&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=jolly">
+  <img align="center" alt="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyLexa&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=jolly&layout=compact">
 </div> 
 
 <div style="display: inline_block"><br>
