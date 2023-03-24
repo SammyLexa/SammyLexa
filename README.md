@@ -15,6 +15,7 @@
 - 👧 Pronomes: Ela/Dela
 
 - 💜 Sobre mim: Sou aspirante a Desenvolvedora Web Full-Stack, com ênfase no Front-end, estou ansiosa para aprender e crescer na área de desenvolvimento web. Minha paixão por criar páginas web envolventes, acessíveis e fáceis de usar me levou a seguir a carreira de desenvolvimento.
+Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos que me permite aprender novas tecnologias com facilidade e velocidade. Como Front-End tenho habilidade em Desenvolvimento Web e isso me permite criar páginas responsivas, dinâmicas e bem estilizadas através de HTML5, CSS3 e React  e como Back-End criar aplicações CRUDs com Java, Spring e Insomnia. 
 
 ##
 <div style="display: inline_block">
