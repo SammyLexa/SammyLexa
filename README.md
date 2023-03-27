@@ -1,4 +1,4 @@
-## Olá eu sou a Samantha, Seja Bem-Vindo ao meu Perfil! 👋
+## Olá, eu sou a Samantha, Seja Bem-Vindo ao meu Perfil! 👋
 ### Desenvolvedora Web Full-Stack
 ##
 
