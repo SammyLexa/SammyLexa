@@ -42,7 +42,6 @@ Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos 
   <img align="center" alt="MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-##
 
 
     
