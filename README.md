@@ -1,5 +1,5 @@
 ## Olá, eu sou a Samantha, Seja Bem-Vindo ao meu Perfil! 👋
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ee154f&height=120&section=header"/>
 <p align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=KronaOne&size=24&color=ee154f&center=true&vCenter=true&lines=Desenvolvedora+Full-Stack"(https://git.io/typing-svg>
  </p>
