@@ -1,7 +1,7 @@
 ## Olá, eu sou a Samantha, Seja Bem-Vindo ao meu Perfil! 👋
 </br>
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=ee154f&center=true&vCenter=true&lines=Desenvolvedora+Web+Full-Stack"(https://git.io/typing-svg>
+    <img src="https://readme-typing-svg.herokuapp.com?font=KronaOne&size=24&color=ee154f&center=true&vCenter=true&lines=Desenvolvedora+Web+Full-Stack"(https://git.io/typing-svg>
  </p>
  
 ##
