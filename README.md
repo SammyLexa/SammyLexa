@@ -29,6 +29,7 @@ Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos 
   <img align="center" alt="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyLexa&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=jolly&layout=compact">
 </div> 
 
+<h2>Minhas Ferramentas, Linguagens, Frameworks e Banco de Dados que já trabalhei: JavaScript, TypeScript, React, HTML, CSS, Java, Spring, Insomnia e MySQL.
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -37,8 +38,8 @@ Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="" height="70" src="https://lh3.googleusercontent.com/t9RZENc11VWioLAGpGh2NYHop8MmVwKRVVi_9CX6dDO_WG9oQBp7jRUmlT0dtHeIWAd6XKDPUj5YU7G7d6bCKSdbSI8=w128-h128-e365-rj-sc0x00ffffff">
+  <img align="center" alt="MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ##
