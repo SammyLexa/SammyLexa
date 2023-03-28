@@ -30,6 +30,7 @@ Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos 
 
 <h2>Minhas Ferramentas, Linguagens, Frameworks e Banco de Dados que já trabalhei: JavaScript, TypeScript, React, HTML, CSS, Java, Spring, Insomnia e MySQL.
 <div style="display: inline_block"><br>
+  <img align="center" src="https://user-images.githubusercontent.com/123910027/228246509-27e1359f-3bb9-4bee-9509-30ee08dd182e.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
