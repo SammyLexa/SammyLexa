@@ -25,7 +25,7 @@ Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos 
 ##
 <div style="display: inline_block">
   <img align="center" alt="" height="180em" src="https://github-readme-stats.vercel.app/api?username=SammyLexa&show_icons=true&theme=jolly">
-  <img align="center" alt="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyLexa&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=jolly&layout=compact">
+  <img align="center" alt="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyLexa&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=jolly&layout=compact&locale=pt-br">
 </div> 
 
 <h2>Minhas Ferramentas, Linguagens, Frameworks e Banco de Dados que já trabalhei: JavaScript, TypeScript, React, HTML, CSS, Java, Spring, Insomnia e MySQL.
