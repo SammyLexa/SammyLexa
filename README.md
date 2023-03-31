@@ -28,9 +28,10 @@ Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos 
   <img align="center" alt="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyLexa&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=jolly&layout=compact&locale=pt-br">
 </div> 
 
+
 <h2>Minhas Ferramentas, Linguagens, Frameworks e Banco de Dados que já trabalhei: JavaScript, TypeScript, React, HTML, CSS, Java, Spring, Insomnia e MySQL.
 <div style="display: inline_block"><br>
-  <img align="center" height="200" src="https://user-images.githubusercontent.com/123910027/228246509-27e1359f-3bb9-4bee-9509-30ee08dd182e.png">
+  <img align="center" height="400" src="https://user-images.githubusercontent.com/123910027/229188783-ae554d62-0532-45a1-9f1f-d499f4017ac7.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -41,6 +42,7 @@ Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos 
   <img align="center" alt="" height="40" src="https://lh3.googleusercontent.com/t9RZENc11VWioLAGpGh2NYHop8MmVwKRVVi_9CX6dDO_WG9oQBp7jRUmlT0dtHeIWAd6XKDPUj5YU7G7d6bCKSdbSI8=w128-h128-e365-rj-sc0x00ffffff">
   <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
+
 
 
 
