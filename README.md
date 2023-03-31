@@ -34,7 +34,7 @@ Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos 
 
 <img align="center" height="350" src="https://user-images.githubusercontent.com/123910027/229188783-ae554d62-0532-45a1-9f1f-d499f4017ac7.svg">
 
-">
+
 <div style="display: inline_block"><br>
   
 
