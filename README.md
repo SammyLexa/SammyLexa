@@ -7,8 +7,7 @@
 
 
  
-- 👩‍💼💼 Portfolio: 
-        <a href="https://github.com/SammyLexa/Portfolio" alt="link do meu portfolio">Link</a>
+# - 👩‍💼💼 Portfolio: <a href="https://github.com/SammyLexa/Portfolio" alt="link do meu portfolio">Link</a>
 - 🔭 Atualmente estou trabalhando em um Projeto de um E-commerce
 <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat" target="_blank">Link do Projeto<a>
 - 🌱 Atualmente estou aprendendo Java, JavaScript, Spring.
