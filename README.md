@@ -11,10 +11,7 @@
 - 🔭 Atualmente estou trabalhando em um Projeto de um E-commerce
 <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat" target="_blank">Link do Projeto<a>
 - 🌱 Atualmente estou aprendendo Java, JavaScript, Spring.
-- 📫 Contato: samanthapereira.contato@gmail.com ou clique em <a href = "mailto:samanthapereira.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <br>
-    
-    <a href="https://www.linkedin.com/in/samantha-alexandra-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 📫 Contato: clique <a href = "mailto:samanthapereira.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    <a href="https://www.linkedin.com/in/samantha-alexandra-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - 👧 Pronomes: Ela/Dela
 
 - 💜 Sobre mim: Sou aspirante a Desenvolvedora Web Full-Stack, estou ansiosa para aprender e crescer na área de desenvolvimento web. Minha paixão por criar páginas web envolventes, acessíveis e fáceis de usar me levou a seguir a carreira de desenvolvimento.
