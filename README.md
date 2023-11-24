@@ -13,8 +13,10 @@
 <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat-FRONTEND" target="_blank">Link do Projeto Front-End<a>
 - 📫 Contato: clique <a href = "mailto:samanthapereira.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    <a href="https://www.linkedin.com/in/samantha-alexandra-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - 👧 Pronomes: Ela/Dela
+- <img align="center" alt="bandeira" height="70" src="https://github.com/SammyLexa/SammyLexa/assets/123910027/edf432c2-57a5-4880-be37-ab32fb89480a">
 
-- 💜 Sobre mim: Sou aspirante a Desenvolvedora Web Full-Stack, estou ansiosa para aprender e crescer na área de desenvolvimento web. Minha paixão por criar páginas web envolventes, acessíveis e fáceis de usar me levou a seguir a carreira de desenvolvimento.
+
+- 💜 Sobre mim: Sou Desenvolvedora Web Full-Stack, estou ansiosa para aprender e crescer na área de desenvolvimento web. Minha paixão por criar páginas web envolventes, acessíveis e fáceis de usar me levou a seguir a carreira de desenvolvimento.
 Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos que me permite aprender novas tecnologias com facilidade e velocidade. Como Front-End tenho habilidade em Desenvolvimento Web e isso me permite criar páginas responsivas, dinâmicas e bem estilizadas através de HTML5, CSS3 e React  e como Back-End criar aplicações CRUDs com Java, Spring e Insomnia. 
 
 ##
@@ -43,7 +45,6 @@ Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos 
   <img align="center" alt="" height="70" src="https://lh3.googleusercontent.com/t9RZENc11VWioLAGpGh2NYHop8MmVwKRVVi_9CX6dDO_WG9oQBp7jRUmlT0dtHeIWAd6XKDPUj5YU7G7d6bCKSdbSI8=w128-h128-e365-rj-sc0x00ffffff">
   <img align="center" alt="MySQL" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
-
 
 
 
