@@ -7,8 +7,8 @@
 
 
  
-# - 👩‍💼💼 Portfolio: <a href="https://portfolio-samantha-sammylexa.vercel.app/index.html" alt="link do meu portfolio">Link</a>
-- 🔭 Meu Projeto mais notório um E-commerce
+# - 👩‍💼💼 Portfolio: <a href="https://portfolio-v2-sammylexa-samantha.vercel.app/" alt="link do meu portfolio">Link</a>
+- 🔭 Meu Projeto mais notório um E-commerce: <br>
 <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat" target="_blank">Link do Projeto Back-End<a> </br>
 <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat-FRONTEND" target="_blank">Link do Projeto Front-End<a>
 - 📫 Contato: clique <a href = "mailto:samanthapereira.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    <a href="https://www.linkedin.com/in/samantha-alexandra-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
